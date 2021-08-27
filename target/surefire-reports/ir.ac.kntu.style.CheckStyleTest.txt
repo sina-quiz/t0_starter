@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: ir.ac.kntu.style.CheckStyleTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.2 s <<< FAILURE! - in ir.ac.kntu.style.CheckStyleTest
+testCheckStyleIndentation(ir.ac.kntu.style.CheckStyleTest)  Time elapsed: 0.162 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 check style errors found. Starting audit...
+[ERROR] H:\junit\src\main\java\ir\ac\kntu\Mathematics.java:5:26: ',' is preceded with whitespace. [NoWhitespaceBefore]
+Audit done.
+
+	at ir.ac.kntu.style.CheckStyleTest.testCheckStyleIndentation(CheckStyleTest.java:104)
+
