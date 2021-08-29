@@ -3,7 +3,9 @@ package ir.ac.kntu;
 public class Costumer {
 
     private int creditCard;
+
     private int cash;
+
     private int total;
 
     public Costumer(int creditCard, int cash) {

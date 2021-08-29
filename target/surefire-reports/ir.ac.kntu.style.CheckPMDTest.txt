@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: ir.ac.kntu.SolutionTest
+Test set: ir.ac.kntu.style.CheckPMDTest
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.033 s - in ir.ac.kntu.SolutionTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.379 s - in ir.ac.kntu.style.CheckPMDTest
